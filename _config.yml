@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: The Sailor's Flares
+subtitle: Check meowt
+author: Elizabeth Wolensky
 simple_search: https://www.google.com/search
-description:
+description: The blog of a 20-something in NYC
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
