@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Flatiron&nbsp;school | The Sailor's Flares]]></title>
+  <link href="http://Sailorflares.github.io/blog/categories/flatiron-school/atom.xml" rel="self"/>
+  <link href="http://Sailorflares.github.io/"/>
+  <updated>2014-10-01T21:30:46-04:00</updated>
+  <id>http://Sailorflares.github.io/</id>
+  <author>
+    <name><![CDATA[Elizabeth Wolensky]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rake New_Post]]></title>
+    <link href="http://Sailorflares.github.io/blog/2014/10/01/rake-new-post/"/>
+    <updated>2014-10-01T21:25:58-04:00</updated>
+    <id>http://Sailorflares.github.io/blog/2014/10/01/rake-new-post</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
+]]></content>
+  </entry>
+  
+</feed>
