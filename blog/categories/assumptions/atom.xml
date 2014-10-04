@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Sailor's Flares]]></title>
-  <link href="http://Sailorflares.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Assumptions | The Sailor's Flares]]></title>
+  <link href="http://Sailorflares.github.io/blog/categories/assumptions/atom.xml" rel="self"/>
   <link href="http://Sailorflares.github.io/"/>
   <updated>2014-10-04T13:37:25-04:00</updated>
   <id>http://Sailorflares.github.io/</id>
@@ -23,15 +23,6 @@
 <p>So, here&rsquo;s the first example. I was working on a method and when I inspected the elements, I could see that my method was running perfectly but the rspec tests were still not passing. The assumption I made was that the return type of my method was correct. Turned out my method didn&rsquo;t return a the hash that the test was expecting.</p>
 
 <p>That was the assumption. This is the direction my blog will be taking. :) Happy Saturday!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rake New_Post]]></title>
-    <link href="http://Sailorflares.github.io/blog/2014/10/01/rake-new-post/"/>
-    <updated>2014-10-01T21:25:58-04:00</updated>
-    <id>http://Sailorflares.github.io/blog/2014/10/01/rake-new-post</id>
-    <content type="html"><![CDATA[<p>Hello World!</p>
 ]]></content>
   </entry>
   
