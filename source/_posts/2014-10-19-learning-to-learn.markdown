@@ -38,7 +38,7 @@ If you ever feel like you're too old or too much not 'that kind of person', just
 
 {% img http://www.heaveyduty.com/wp-content/uploads/2014/07/SnatchPowerPosition.jpg 350 %} 
 
-This just goes for learning, in general. Want to learn how to snatch? Look at this picture and note the important position of the banana sandbag. Look at it before you try the lift, after you try the lift, and every single day until you get it.
+This just goes for learning, in general. Want to learn how to do some power lifting? Look at this picture and note the important position of the banana sandbag. Try it. Look at it before you try the lift, after you try the lift, and every single day until you get it.
 
 Want to code? Check out Stack Overflow. Read and read and read. Don't worry about if what you're learning is correct. The more you read and the more you practice, you'll naturally uncover the right way (or your way) of doing things. It's true you might encounter some snarky remarks, but ask your dumb question anyways. If you're super off track, don't worry, some friendly neighbor internet friend will let you know what's up. Even if they're an ass when they do it, you can still glean information.
 
