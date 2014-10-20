@@ -44,7 +44,7 @@ Want to code? Check out Stack Overflow. Read and read and read. Don't worry abou
 
 *Copying is a legitimate way to learn
 
-{% img http://www.sturdyforcommonthings.com/wp-content/uploads/2012/02/IMG_6260.jpg 600 %}
+{% img http://nicktumminello.com/wp-content/uploads/2013/06/tumblr_mekyhrYniA1r4qyxwo1_500.jpg %}
 
 Many artists first learn techniques by copying masters that came before them. If you find that you can't understand an implementation in code, copying that code can be helpful as a step to understanding. Don't ever forget that the end goal is understanding, but copy can give your hands the feel of the right thing to do and get your brain on the right track. Also, treat coding like a language - look up words you don't know! It's that simple.
 
