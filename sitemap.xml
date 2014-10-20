@@ -3,6 +3,22 @@
   
   
   <url>
+    <loc>http://Sailorflares.github.io/blog/2014/10/19/learning-to-learn/</loc>
+    
+    <lastmod>2014-10-19T19:57:03-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Sailorflares.github.io/blog/2014/10/09/green-tea/</loc>
+    
+    <lastmod>2014-10-09T09:23:16-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://Sailorflares.github.io/blog/2014/10/04/ive-decided-on-a-theme/</loc>
     
     <lastmod>2014-10-04T13:25:20-04:00</lastmod>
@@ -21,14 +37,14 @@
   
   <url>
     <loc>http://Sailorflares.github.io/blog/archives/</loc>
-    <lastmod>2014-10-04T13:37:25-04:00</lastmod>
+    <lastmod>2014-10-19T23:57:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://Sailorflares.github.io/</loc>
-    <lastmod>2014-10-04T13:37:25-04:00</lastmod>
+    <lastmod>2014-10-19T23:57:49-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

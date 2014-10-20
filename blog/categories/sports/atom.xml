@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[in·i·tial·ize]]></title>
-  <link href="http://Sailorflares.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Sports | in·i·tial·ize]]></title>
+  <link href="http://Sailorflares.github.io/blog/categories/sports/atom.xml" rel="self"/>
   <link href="http://Sailorflares.github.io/"/>
   <updated>2014-10-19T23:57:49-04:00</updated>
   <id>http://Sailorflares.github.io/</id>
@@ -22,7 +22,7 @@
 
 <p>I&rsquo;m not the only person who felt like the gym wasn&rsquo;t the place for me. That mentally that somehow, you have get into shape to even be allowed in the gym. That only certain types of people workout. Take a look at the Planet Fitness advertising campagin, guaranteeing that there are no &lsquo;lunks&rsquo; at their gyms.</p>
 
-<p><img src="http://bgg2wlplugins.bgg2wl.netdna-cdn.com/wp-content/uploads/2011/05/planet-fitness.jpg"></p>
+<p><img class="<a" src="href="http://bgg2wlplugins.bgg2wl.netdna-cdn.com/wp-content/uploads/2011/05/planet-fitness.jpg">http://bgg2wlplugins.bgg2wl.netdna-cdn.com/wp-content/uploads/2011/05/planet-fitness.jpg</a>&#8221;></p>
 
 <p>The entire success of this chain, which has made over $500 million in revenue, is its &lsquo;anti-fitness fitness club&rsquo; branding. AKA, you don&rsquo;t have to &lsquo;know&rsquo; about working out to work out, nor do you have to already fit in to fitness.</p>
 
@@ -34,7 +34,7 @@
 
 <p>Some are lucky and start their lives doing the thing they want to do from day one. (This is particually helpful if you want to become an olympic gymnast.) However, most things in life don&rsquo;t work like that, and can be picked up at any point in life. For a really good story, check out Tim Olson, an ultra marathon runner.</p>
 
-<p><img src="http://www.timothyallenolson.com/wp-content/uploads/2014/03/start.jpeg" width="600"></p>
+<p><img class="<a" src="href="http://www.timothyallenolson.com/wp-content/uploads/2014/03/start.jpeg">http://www.timothyallenolson.com/wp-content/uploads/2014/03/start.jpeg</a>&#8221; width=&#8221;600&#8221;></p>
 
 <p>He only STARTED running in 2009 and has already broken ultra marathon records. It&rsquo;s just crazy. But he started like anybody else starts - running a mile on day and thinking that he kind of liked it, or at least not stopping after first huff and puff.</p>
 
@@ -48,7 +48,7 @@
 
 <p>*Read the Fucking Manual</p>
 
-<p><img src="http://www.heaveyduty.com/wp-content/uploads/2014/07/SnatchPowerPosition.jpg" width="350"></p>
+<p><img class="<a" src="href="http://www.heaveyduty.com/wp-content/uploads/2014/07/SnatchPowerPosition.jpg">http://www.heaveyduty.com/wp-content/uploads/2014/07/SnatchPowerPosition.jpg</a>&#8221; width=&#8221;350&#8221;></p>
 
 <p>This just goes for learning, in general. Want to learn how to snatch? Look at this picture and note the important position of the banana sandbag. Look at it before you try the lift, after you try the lift, and every single day until you get it.</p>
 
@@ -56,13 +56,13 @@
 
 <p>*Copying is a legitimate way to learn</p>
 
-<p><img src="http://www.sturdyforcommonthings.com/wp-content/uploads/2012/02/IMG_6260.jpg" width="600"></p>
+<p><img class="<a" src="href="http://www.sturdyforcommonthings.com/wp-content/uploads/2012/02/IMG_6260.jpg">http://www.sturdyforcommonthings.com/wp-content/uploads/2012/02/IMG_6260.jpg</a>&#8221; width=&#8221;600&#8221;></p>
 
 <p>Many artists first learn techniques by copying masters that came before them. If you find that you can&rsquo;t understand an implementation in code, copying that code can be helpful as a step to understanding. Don&rsquo;t ever forget that the end goal is understanding, but copy can give your hands the feel of the right thing to do and get your brain on the right track. Also, treat coding like a language - look up words you don&rsquo;t know! It&rsquo;s that simple.</p>
 
 <p>*Know what you&rsquo;re doing</p>
 
-<p><img src="http://bestbodybootcamp.co.za/wp-content/uploads/2012/10/The-Planck.jpg"></p>
+<p><img class="<a" src="href="http://bestbodybootcamp.co.za/wp-content/uploads/2012/10/The-Planck.jpg">http://bestbodybootcamp.co.za/wp-content/uploads/2012/10/The-Planck.jpg</a>&#8221;></p>
 
 <p>This may sound counter-intuitive to my whole post above, but I promise you it&rsquo;s not. Know what you are doing at any given moment - what you&rsquo;re trying to accomplish, what your problem is, how you&rsquo;re approaching it. At any given moment, try to be as self-aware as possible. Even though I sometimes do this, don&rsquo;t just type in different forms of syntax aimlessly until something works. At least know what you&rsquo;re changing, even if it&rsquo;s just a shot in that dark. That way, once you do find the right path, you&rsquo;ll already know what you changed to work.</p>
 
@@ -72,44 +72,9 @@
 
 <p>Get a code workout. It&rsquo;s okay if you start out as this guy:</p>
 
-<p><img src="http://s3-ec.buzzfed.com/static/2014-05/30/15/enhanced/webdr06/anigif_enhanced-4078-1401479852-18.gif"></p>
+<p><img class="<a" src="href="http://s3-ec.buzzfed.com/static/2014-05/30/15/enhanced/webdr06/anigif_enhanced-4078-1401479852-18.gif">http://s3-ec.buzzfed.com/static/2014-05/30/15/enhanced/webdr06/anigif_enhanced-4078-1401479852-18.gif</a>&#8221;></p>
 
 <p>Just don&rsquo;t stay there forever.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Green Tea]]></title>
-    <link href="http://Sailorflares.github.io/blog/2014/10/09/green-tea/"/>
-    <updated>2014-10-09T09:23:16-04:00</updated>
-    <id>http://Sailorflares.github.io/blog/2014/10/09/green-tea</id>
-    <content type="html"><![CDATA[<p>Thursday morning, 9:24. We&rsquo;re basically being given all day to do our labs, and this is really awesome. But, I just find that, for whatever reason, right now I feel like writing. And once again, I open the page and it&rsquo;s blank and I feel like everything I&rsquo;ve written up to this point, right here, is just awful. But, eh, who cares.</p>
-
-<p>So I&rsquo;m working on finding balance. This practically 80 hour a week program, more time consuming than school (albeit a different stress - not having strictly enforced deadlines or grades makes it seem much more real world and much less purely academic). But balance. How much sleep should I get? How much should I really worry about how messy the apartment is? How much should I work out? How much time should I spend at night finishing a lab (instead of sleeping)?</p>
-
-<p>You get it. The biggest challenge I&rsquo;m really facing in all of this is mindset. I come home, I feel so exhasted that I repeat to myself how exhausted I am and that mentally alters my ability to work. It sucks, and I&rsquo;m working really hard on overcoming it.&#8217;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I've Decided on a Theme]]></title>
-    <link href="http://Sailorflares.github.io/blog/2014/10/04/ive-decided-on-a-theme/"/>
-    <updated>2014-10-04T13:25:20-04:00</updated>
-    <id>http://Sailorflares.github.io/blog/2014/10/04/ive-decided-on-a-theme</id>
-    <content type="html"><![CDATA[<p>This is my first real post, so expect a little terseness. In fact, I&rsquo;m barely going to only write that I&rsquo;ve decided on a theme for my blog. That is, I want to document as much as possible all of the assumptions that I&rsquo;m making while writing my labs.</p>
-
-<p>So, here&rsquo;s the first example. I was working on a method and when I inspected the elements, I could see that my method was running perfectly but the rspec tests were still not passing. The assumption I made was that the return type of my method was correct. Turned out my method didn&rsquo;t return a the hash that the test was expecting.</p>
-
-<p>That was the assumption. This is the direction my blog will be taking. :) Happy Saturday!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rake New_Post]]></title>
-    <link href="http://Sailorflares.github.io/blog/2014/10/01/rake-new-post/"/>
-    <updated>2014-10-01T21:25:58-04:00</updated>
-    <id>http://Sailorflares.github.io/blog/2014/10/01/rake-new-post</id>
-    <content type="html"><![CDATA[<p>Hello World!</p>
 ]]></content>
   </entry>
   
